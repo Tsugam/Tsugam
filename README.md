@@ -5,7 +5,7 @@
 - 🗣 I speak English, Hindi, and Nepali.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sugam-timalsina-900152164/)
 
-```
+
 ## Certification
 ![ITIL v4 Foundation](./files/itil-v4.jpeg)
 <br></br>
